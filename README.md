@@ -1,6 +1,6 @@
 <div align="center"> 
  
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abel3ri&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/abel3ri)
+![Abel Streak](https://github-widgetbox.vercel.app/api/profile?username=abel3ri&data=followers,repositories,stars,commits&theme=viridescent)
 </div>
 
 
@@ -18,12 +18,19 @@
 <br>
 
 <div align="center">
- 
+
 # Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > 
 
-| My GitHub Statistics | Most Used Languages | Streaks |
-| --- | --- | --- |
-| ![Abel Git Status](https://github-readme-stats.vercel.app/api?username=abel3ri&show_icons=true&theme=dark&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abel3ri&show_icons=true&theme=dark&hide_title=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abel3ri&theme=dark)
+| My GitHub Statistics | Most Used Languages |
+| --- | --- |
+| ![Abel Git Status](https://github-readme-stats.vercel.app/api?username=abel3ri&show_icons=true&theme=dark&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abel3ri&show_icons=true&locale=en&layout=compact&theme=dark) |
+
+</div>
+
+<div align="center">
+
+### Streaks
+![GitHub Streak](https://streak-stats.demolab.com/?user=abel3ri&theme=dark&locale=am&fire=0EEBA8)
 
 </div>
 

@@ -30,7 +30,7 @@
 <div align="center">
 
 ### Streaks
-![GitHub Streak](https://streak-stats.demolab.com/?user=abel3ri&theme=dark&locale=am&fire=0EEBA8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abel3ri&theme=dark&locale=en&fire=0EEBA8)
 
 </div>
 

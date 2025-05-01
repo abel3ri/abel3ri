@@ -57,6 +57,7 @@
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td><img alt="Flutter" height="64px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"></td>
+	  <td><img alt="Vue" height="64px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></td>
 	   <td><img alt="Express" height="64px" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000"></td>
 <td><img alt="NestJS" height="64px" src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg"></td>
 	   <td><img alt="Laravel" height="64px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></td>
@@ -94,6 +95,7 @@
 
 <table>
    <td style="width: 10%;"><img alt="GetX" height="64px" src="https://miro.medium.com/v2/resize:fit:922/1*Tq-uyy_zuYx_8LWB2sxJ1Q.jpeg"></td>
+	<td style="width: 10%;"><img alt="Pinia" height="64px" src="https://cdn.worldvectorlogo.com/logos/pinia-1.svg"></td>
     <td style="width: 10%;"><img alt="BLoC" height="64px" src="https://shop.bloclibrary.dev/cdn/shop/products/kiss-cut-stickers-5.5x5.5-default-606a33ae77a7e_grande.jpg?v=1617572787"></td>
     <td style="width: 10%;"><img alt="Redux" height="64px" src="https://w7.pngwing.com/pngs/669/447/png-transparent-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-violet-thumbnail.png"></td>
   </tr>
